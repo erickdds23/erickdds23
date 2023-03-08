@@ -6,7 +6,7 @@
 Sou um desenvolvedor iniciante 😄
 ------------------------
 
-Sou um desenvolvedor de 23 anos e comecei a estudar recentemente. Adoro codificar e descobrir como resolver problemas usando tecnologia de ponta. Meu foco principal é desenvolvimento back-end, fazendo aplicações que impactam a vida de milhares de usuários.
+Sou um desenvolvedor de 23 anos e comecei a estudar recentemente. Adoro codificar e descobrir como resolver problemas usando tecnologia de ponta. Meu foco principal é desenvolvimento back-end.
 
 Também sou aluno da [ Alura ](https://www.alura.com.br/), a maior escola online de tecnologia do Brasil.
 
