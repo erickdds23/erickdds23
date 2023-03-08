@@ -12,7 +12,7 @@ Também sou aluno da [ Alura ](https://www.alura.com.br/), a maior escola online
 
 * 🌍 Moro no Paraná, Brasil
 * ✉️ Você pode entrar em contato comigo em [ erick.damiao@outlook.com ](mailto:erick.damiao@outlook.com)
-* 🚀 Atualmente estou trabalhando no [ CrowTech ](https://crowtech.digital/)
+* 🚀 Atualmente estou trabalhando na [ CrowTech ](https://crowtech.digital/)
 * 🧠 Estou aprendendo Javascript e linguagens de programação C
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 * ⚡ Amo esportes e o meu preferido é o Tracking
