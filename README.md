@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/erickdds23?logo=github&style=for-th
 ###  Linguagens 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?%style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
-What I don't know, give me a few days 😁
+O que eu não souber, me dê alguns dias 😁
 
 ###  Emblemas
 
