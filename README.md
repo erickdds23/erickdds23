@@ -1,5 +1,7 @@
 ### Olá, meu nome é Erick Damião
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/erickdds23)](https://github.com/erickdds23)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickdds/)](https://www.linkedin.com/in/erickdds/)
 
 Sou um desenvolvedor iniciante 😄
 ------------------------
