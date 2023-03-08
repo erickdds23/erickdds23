@@ -30,7 +30,7 @@ O que eu não souber, me dê alguns dias 😁
 <b>Minhas estatísticas do GitHub</b>
 
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=erickdds23&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/erickdds23)
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=erickdds23&show_icons=true&title_color=fff&icon_color=f0b318&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/erickdds23)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickdds23&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/erickdds23)
